@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* { box-sizing: border-box; }
+body { margin: 0; background: #091116; color: #eef7f5; font-family: 'Plus Jakarta Sans', sans-serif; -webkit-font-smoothing: antialiased; }
+button, input { font: inherit; }
+::selection { background: #17b8a5; color: #061113; }
