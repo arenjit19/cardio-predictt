@@ -8,8 +8,8 @@ The project compares multiple Machine Learning and Deep Learning models across t
 
 ## 🚀 Live Application
 
-🔗 **Live Demo:**  
-(https://heart-risk-screen.emergent.host/?utm_source=share)
+<img width="1085" height="577" alt="image" src="https://github.com/user-attachments/assets/83cc18bd-74c1-4cff-b563-a229f2b744e4" />
+
 
 The deployed application allows users to interact with the trained prediction system through a web interface.
 
